@@ -1,0 +1,26 @@
+# Compiled output
+*.exe
+*.out
+*.test
+go-service
+
+# Go build cache
+.cache/
+
+# Environment / secrets
+.env
+*.env
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
